@@ -7,7 +7,7 @@ SKN-15th-4Team :
 ### 📌 팀 멤버
 | 한승희 | 최서린 | 강민정 | 신정은 | 이은진A |
 |--|--|--|--|--|
-| Project Leader | Crawling | Crawling | Streamlit | Streamlit |
+| Project Leader, Crawling| Database | Crawling | Streamlit | Streamlit |
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
