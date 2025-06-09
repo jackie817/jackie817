@@ -1,12 +1,12 @@
 ## ✨4팀 소개✨
 ### 📌 팀 명
-SKN0-15th-4Team :
+SKN-15th-4Team :
 
-<!--
-**jackie817/jackie817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
-
+### 📌 팀 멤버
+| 한승희 | 최서린 | 강민정 | 신정은 | 이은진A |
+|--|--|--|--|--|
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
