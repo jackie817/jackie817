@@ -9,6 +9,9 @@ SKN-15th-4Team :
 |--|--|--|--|--|
 | Project Leader, Crawling| Database | Crawling | Streamlit | Streamlit |
 
+
+
+<br/><br/><br/>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
