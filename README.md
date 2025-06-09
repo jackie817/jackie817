@@ -1,4 +1,6 @@
-## 😄4팀 소개😄
+## ✨4팀 소개✨
+### 📌 팀 명
+SKN0-15th-4Team :
 
 <!--
 **jackie817/jackie817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
