@@ -26,8 +26,7 @@
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=stre고 </h2>
 
-
-
+######6. 주요 프로시저######
 
 
 ######8. 한 줄 회고######
@@ -40,5 +39,5 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________
 • 이은진A: 기본기가 안되어있어 많은 공부가 필요하다고 느꼈고 이번 프로젝트를 통하여 다음 프로젝트때는 열심히 보안하여 팀에 좋은영향을 끼쳐야겠다고 생각하였다. 
 ____________________________________________________________________________________________________________________________________________________________________
-• 강민정:
+• 강민정: 
 ____________________________________________________________________________________________________________________________________________________________________
