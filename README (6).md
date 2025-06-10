@@ -26,6 +26,30 @@
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=stre고 </h2>
 
+
+<h2> 4. 요구사항 명세서 </h2>
+
+**① 등록 차량 분포**
+
+> 현재 국내시장에 등록된 중고 차량들을, 제조사별로 한 눈에 확인할 수 있도록 통계로 나타냈다. 
+> 이를 통해 중고차 시장의 고객들이 선호하는 제조사별 차량 수요를 파악할 수 있다.
+
+**② 차량 정보**
+> 
+> 
+> 
+
+**③ 조건 검색**
+
+> 
+> 
+> 
+
+**④ FAQ**
+> 
+> 
+> 
+
 • 한승희: 주제선정부터 구현까지 진행하며 이뤄낸 결과물을 보니 뿌듯했다. 수업시간에 배운것들을 실제로 활용해보며 완전히 이해하게 되었고, 이제는 gpt 없이 혼자서도 코드를 짤 수있게된것 같아 좋다. 
 
 • 최서린: 가지고 있는 지식을 총 동원해서 짧은 시간동안 유의미한 결과물을 만들어내는 것이 재미있었다. 제대로 된 협업 프로젝트는 이번이 처음이라 조장님의 덕을 많이 보았던 것 같다. 이번엔 DB 구현 담당이었지만, SQL 구문을 사용하기 위해 streamlit 부분에서도 신경써야 할 부분이 많았다. 많은 것들이 이어져있는 것 같다! 다음엔 웹 구현에도 도전해보고 싶다.
