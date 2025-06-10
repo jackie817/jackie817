@@ -26,10 +26,10 @@
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=stre고 </h2>
 
-######6. 주요 프로시저######
+# 6. 주요 프로시저
 
 
-######8. 한 줄 회고######
+# 8. 한 줄 회고
 ____________________________________________________________________________________________________________________________________________________________________
 • 한승희: 주제선정부터 구현까지 진행하며 이뤄낸 결과물을 보니 뿌듯했다. 수업시간에 배운것들을 실제로 활용해보며 완전히 이해하게 되었고, 이제는 gpt 없이 혼자서도 코드를 짤 수있게된것 같아 좋다. 
 ____________________________________________________________________________________________________________________________________________________________________
